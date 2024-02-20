@@ -1,2 +1,4 @@
 # my-repository
-about my repositary author = sourabh singh
+about my repositary 
+<br>
+author = sourabh singh

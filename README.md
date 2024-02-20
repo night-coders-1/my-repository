@@ -1,2 +1,2 @@
 # my-repository
-about my repositary
+about my repositary author = sourabh singh
